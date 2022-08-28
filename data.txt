@@ -1,4 +1,4 @@
 Name: Rayleigh
 Age: 24
 Favorite Color: Black
-Hobby : Music
+Hobby : Music, Manga
